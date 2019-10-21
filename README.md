@@ -15,8 +15,11 @@ Please let me know your system version if it doesn't work for you.
 ## Installation
 
 1. *Clone or download*
+
 2. Double click on *Set Date from EXIF.workflow*
+
 3. Confirm install
+![](./ScreenShots/ScreenShot01.png)
 
 ## Usage
 
@@ -27,6 +30,7 @@ Please let me know your system version if it doesn't work for you.
 2. Right Click or Control+Click
 
 3. Quick Actions > Set Date from EXIF
+![](./ScreenShots/ScreenShot02.png)
 
 ## Notes
 
