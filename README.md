@@ -1,6 +1,6 @@
 # Set Date from EXIF
 
-A simple *Automator.app* *workflow* quick action to change the **Date Created** attribute of <u>image</u> files to the creation date listed in the **EXIF**.
+A simple *Automator.app* *workflow* Quick Action to change the **Date Created** attribute of <u>image</u> files to the creation date listed in the **EXIF**.
 
 This allows images to be sorted by actual *time taken* in *Finder*, since it still cannot show **EXIF** data as columns.
 
