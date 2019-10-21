@@ -19,7 +19,7 @@ Please let me know your system version if it doesn't work for you.
 2. Double click on *Set Date from EXIF.workflow*
 
 3. Confirm install
-![](./ScreenShots/ScreenShot01.png){:height="10%" width="10%"}
+![](./ScreenShots/ScreenShot01.png){:height="5%" width="5%"}
 
 ## Usage
 
