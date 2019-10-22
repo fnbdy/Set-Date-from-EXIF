@@ -34,6 +34,6 @@ Please let me know your system version if it doesn't work for you.
 
 ## Notes
 
-The actual work is done in a shell script, which takes *selected files and folders* in *Finder* as input.
+The actual work is done in a [shell script](https://github.com/Imagnobody/Set-Date-from-EXIF/blob/master/src/script.sh), which takes *selected files and folders* in *Finder* as input.
 
 This is my first time actually writing a shell script, so definitely prone to errors and not following best-practices; welcome to any critism/suggestions on improvements.
