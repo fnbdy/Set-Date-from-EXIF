@@ -27,7 +27,7 @@ Please let me know your system version if it doesn't work for you.
 
 1. Select files and folders in *Finder*
 
-   [^All files in selected folders will be searched and changed recursively; Has no effect on non-image files]: 
+    (All files in selected folders will be searched and changed recursively; Has no effect on non-image files)
 
 2. Right Click or Control+Click
 
