@@ -14,11 +14,13 @@ Please let me know your system version if it doesn't work for you.
 
 ## Installation
 
-1. *Clone or download*
+1. Download the latest release from [here](https://github.com/Imagnobody/Set-Date-from-EXIF/releases/download/v0.1/Set.Date.from.EXIF.workflow.zip).
 
-2. Double click on *Set Date from EXIF.workflow*
+2. Unzip file.
 
-3. Confirm install
+3. Double click on *Set Date from EXIF.workflow*
+
+4. Confirm install
 ![](./ScreenShots/ScreenShot01.png){:height="5%" width="5%"}
 
 ## Usage
