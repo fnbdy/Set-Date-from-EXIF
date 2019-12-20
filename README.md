@@ -21,7 +21,7 @@ Please let me know your system version if it doesn't work for you.
 3. Double click on *Set Date from EXIF.workflow*
 
 4. Confirm install
-![ScreenShot01](./ScreenShots/ScreenShot01.png){:height="5%" width="5%"}
+![](./ScreenShots/ScreenShot01.png){:height="5%" width="5%"}
 
 ## Usage
 
@@ -32,7 +32,7 @@ Please let me know your system version if it doesn't work for you.
 2. Right Click or Control+Click
 
 3. Quick Actions > Set Date from EXIF
-![ScreenShot02](./ScreenShots/ScreenShot02.png)
+![](./ScreenShots/ScreenShot02.png)
 
 ## Notes
 
